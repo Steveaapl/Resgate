@@ -1,2 +1,0 @@
-# Resgate
-A android app
